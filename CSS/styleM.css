@@ -1,0 +1,20 @@
+.cuadro {
+    padding: 30px 1px;
+}
+
+.Imagen img {
+    margin-bottom: 10px;
+}
+
+.botones {
+    gap: 12px;
+    width: 260px;
+
+}
+
+.botones button {
+    padding: 13px 20px;
+}
+.titulo p {
+    font-size: 13px;
+}

@@ -1,0 +1,42 @@
+.cuadro {
+    padding: 15px 1px;
+    margin: 110px 700px;
+}
+
+.Imagen img {
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+}
+
+.titulo {
+    margin-bottom: 10px;
+    margin: -10px;
+}
+
+.titulo h2 {
+    font-size: 15px;
+}
+
+.titulo h4 {
+    font-size: 9px;
+}
+
+.titulo p {
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+.botones {
+    gap: 1px;
+    align-items: center;
+    justify-content: center;
+}
+
+.botones button {
+    width: 200px;
+    height: 30px;
+    padding: 10px 40px;
+    font-size: 10px;
+    margin: 5px;
+}
